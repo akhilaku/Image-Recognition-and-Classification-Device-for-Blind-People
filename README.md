@@ -1,4 +1,4 @@
-# Image-Recognition-and-Classification-Device-for-Blind-People
+# Image Recognition and Classification Device for Blind People
 
 <p align="center">
 <kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/Project-Theme.jpg width=800 height=369 /><kbd>
