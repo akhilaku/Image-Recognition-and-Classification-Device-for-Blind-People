@@ -29,6 +29,43 @@ They are less-cost comparing other GPU's and can be used efficiently for most of
 ### Get Started
 
 **1.** Fork [this](https://github.com/StudentCode-in/Image-Recognition-and-Classification-Device-for-Blind-People) repository.
-Click on the <a href="https://github.com/vinitshahdeo/Water-Monitoring-System/"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
+Click on the <a href="https://github.com/StudentCode-in/Image-Recognition-and-Classification-Device-for-Blind-People/"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
+
+**2.** Clone the forked repository.
+
+```bash
+git clone https://github.com/<your-github-username>/Image-Recognition-and-Classification-Device-for-Blind-People
+```
+
+**3.** Navigate to the project directory.
+
+```bash
+cd Image-Recognition-and-Classification-Device-for-Blind-People
+```
+
+**4.** Create a new branch.
+
+```bash
+git checkout -b <your_branch_name>
+```
+
+**5.** Make changes in source code.
+
+**6.** Stage your changes and commit
+
+```bash
+#Add changes to Index
+git add .
+
+#Commit to the local repo
+git commit -m "<your_commit_message>"
+```
+**7.** Push your local commits to your repository.
+
+```bash
+git push -u origin <your_branch_name>
+```
+**8.** Create a Pull-Request(PR) to merge your changes into the original repository(write a simple description about the changes you made)
+
 
 
