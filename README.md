@@ -1,4 +1,5 @@
 # Image-Recognition-and-Classification-Device-for-Blind-People
+## **Please view the original repository [here](https://github.com/akhilaku/Image-Classifier-And-Recognition-Device-For-Blind-People-Using-Intel-Movidius-NCS-2) for more details.**
 
 **Project idea is to implement an image recognition and classification device in spectacles of blind people, so that it can recognize and classify the things(visuals) in front of them. It also helps to identify the people in front of them with the help of face recognition.**
 
