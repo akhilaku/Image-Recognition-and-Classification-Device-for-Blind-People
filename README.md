@@ -1,12 +1,12 @@
 # Image Recognition and Classification Device for Blind People
 
+**Project idea is to implement an image recognition and classification device in spectacles of blind people, so that it can recognize and classify the things(visuals) in front of them. It also helps to identify the people in front of them with the help of face recognition. The classified or recognized image will be converted into speech so that the Blind people can listen and understand what is in front of them.**
+
 <p align="center">
 <kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/Project-Theme.jpg width=800 height=369 /><kbd>
   </p>
 
 ### **Please view the original repository [here](https://github.com/akhilaku/Image-Classifier-And-Recognition-Device-For-Blind-People-Using-Intel-Movidius-NCS-2) for more details.**
-
-**Project idea is to implement an image recognition and classification device in spectacles of blind people, so that it can recognize and classify the things(visuals) in front of them. It also helps to identify the people in front of them with the help of face recognition. The classified or recognized image will be converted into speech so that the Blind people can listen and understand what is in front of them.**
 
 **This device will help to identify, recognize and classify the things in front of them using Intel Movidius Neural Compute Stick(NCS) with Raspberry Pi-3.**
 
