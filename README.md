@@ -51,7 +51,7 @@ git checkout -b <your_branch_name>
 
 **5.** Make changes in source code.
 
-**6.** Stage your changes and commit
+**6.** Add your changes and commit
 
 ```bash
 #Add changes to Index
@@ -65,7 +65,7 @@ git commit -m "<your_commit_message>"
 ```bash
 git push -u origin <your_branch_name>
 ```
-**8.** Create a Pull-Request(PR) to merge your changes into the original repository(write a simple description about the changes you made)
+#### Create a Pull-Request(PR) to merge your changes into the original repository(write a simple description about the changes you made)
 
 
 
