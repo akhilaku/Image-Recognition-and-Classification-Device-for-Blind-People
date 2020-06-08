@@ -26,5 +26,9 @@ They are less-cost comparing other GPU's and can be used efficiently for most of
 - **Python**
 - **OpenVino Tool Kit**
 
+### Get Started
+
+**1.** Fork [this](https://github.com/StudentCode-in/Image-Recognition-and-Classification-Device-for-Blind-People) repository.
+Click on the <a href="https://github.com/vinitshahdeo/Water-Monitoring-System/"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
 
 
