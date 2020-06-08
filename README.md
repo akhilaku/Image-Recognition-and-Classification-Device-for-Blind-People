@@ -76,8 +76,12 @@ git push -u origin <your_branch_name>
 
 **STEPS:**
 
-1. **Step 01:** For using the property of the NCSDK API add (import) the mvnc library.
 
+**View the steps below for a quick application:**
+
+**STEPS:**
+
+1. **Step 01:** For using the property of the NCSDK API add (import) the mvnc library.
 1. **Step 02:** You can access the Movidius NCS using an API like any other USB device. Also you can use parallel Movidius devices at once if you need more capacity to compute your model. For now, one kit is enough for this application. Select and open process.
 1. **Step 03:** We will use a pre-trained GoogleNet model for using a compiled graph file.
 1. **Step 04:** We also need to do some pre-processing before loading the image into our Movidius NCS.
@@ -85,5 +89,3 @@ git push -u origin <your_branch_name>
 1. **Step 06:** Give the input image to the pre-trained model and get the output by using GetResult().
 1. **Step 07:** Print the prediction of the model's output and corresponding labels. Here we also display the input image at the same time.
 1. **Step 08:** For the last step, we clear and shutdown the Movidius NCS device for using it again.
-
-
