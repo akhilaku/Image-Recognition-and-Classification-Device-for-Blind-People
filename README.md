@@ -8,7 +8,7 @@
 
 ### **Please view the original repository [here](https://github.com/akhilaku/Image-Classifier-And-Recognition-Device-For-Blind-People-Using-Intel-Movidius-NCS-2) for more details.**
 
-**This device will help to identify, recognize and classify the things in front of them using Intel Movidius Neural Compute Stick(NCS) with Raspberry Pi-3.**
+**This device will help to identify, recognize and classify the things in front of them using Intel Movidius Neural Compute Stick(NCS) with Raspberry Pi-3 and a Pi-Camera.**
 
 <p align="center">
 <kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/IMNCS.png width=800 height=369 /><kbd>
