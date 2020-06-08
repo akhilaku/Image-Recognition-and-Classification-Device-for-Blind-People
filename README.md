@@ -103,3 +103,10 @@ git push -u origin <your_branch_name>
 1. **Step 07:** Print the prediction of the model's output and corresponding labels. Here we also display the input image at the same time.
 
 1. **Step 08:** For the last step, we clear and shutdown the Movidius NCS device for using it again.
+
+---
+
+<p align="center">
+<kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/hardware%20setting.jpg width=500 height=375 /><kbd>
+  </p>
+  
