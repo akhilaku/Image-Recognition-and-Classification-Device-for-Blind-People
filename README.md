@@ -27,7 +27,9 @@ They are less-cost comparing other GPU's and can be used efficiently for most of
 - **Python**
 - **OpenVino Tool Kit**
 
-### Get Started
+---
+
+### Getting Started
 
 **1.** Fork [this](https://github.com/StudentCode-in/Image-Recognition-and-Classification-Device-for-Blind-People) repository.
 Click on the <a href="https://github.com/StudentCode-in/Image-Recognition-and-Classification-Device-for-Blind-People/"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
@@ -67,6 +69,8 @@ git commit -m "<your_commit_message>"
 git push -u origin <your_branch_name>
 ```
 #### Create a Pull-Request(PR) to merge your changes into the original repository(write a simple description about the changes you made)
+
+---
 
 
 
