@@ -106,7 +106,10 @@ git push -u origin <your_branch_name>
 
 ---
 
+### The below image shows the simple hardware connection of Intel Movidius NCS-2 and pi-camera with Raspberry Pi-3.
+
 <p align="center">
 <kbd><img src=https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People/blob/master/images/hardware%20setting.jpg width=500 height=375 /><kbd>
   </p>
-  
+ 
+---
