@@ -84,7 +84,7 @@ git push -u origin <your_branch_name>
 
 ---
 
-### **View the steps below for a quick application:**
+### :bulb: **View the steps below for a quick application:**
 
 **STEPS:**
 
